@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">assignment3</string>
+    <string name="homeFragment">HomeFragment</string>
+    <string name="mvp">MVP</string>
+    <string name="mvvm">MVVM</string>
+    <string name="mvp_val1">Value 1</string>
+    <string name="mvp_val2">Value 2</string>
+    <string name="mvp_result">
+        <!-- empty string -->
+    </string>
+    <string name="add_button">Add</string>
+    <string name="subtract_button">Subtract</string>
+    <string name="divide_button">Divide</string>
+    <string name="multiply_button">Multiply</string>
 </resources>

@@ -100,6 +100,4 @@ class MVPFragment : Fragment(), ICalculatorView {
         inputField1.text.clear()
         inputField2.text.clear()
     }
-
-
 }
